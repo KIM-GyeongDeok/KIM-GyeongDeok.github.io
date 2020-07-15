@@ -1,9 +1,9 @@
 ---
 title : "amino acid"
 category:
-    -dictionary
+    - dictionary
 tag:
-    -dic
+    - dic
 toc : ture
 ---
 
