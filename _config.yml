@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Genetics"
 title_separator          : "-"
-subtitle                 : "kkd" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김경덕"
 description              : "인공지능, 유전학 학습."
 url                      : "https://KIM-GyeongDeok.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
